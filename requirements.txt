@@ -1,0 +1,5 @@
+Какие библиотеки я использую в проекте
+1) import pygame
+2) import random
+3) import time
+4) import sys
